@@ -1,0 +1,26 @@
+#above {
+    display: flex;
+}
+
+#navbar {
+    background-color: rgb(10, 45, 10);
+}
+
+#navlink {
+    color: white;
+}
+
+#main, #maincontainer, #maincontent, #third, #locations {
+    background-color: rgb(10, 45, 10);
+}
+
+#third {
+    display: flex;
+    word-wrap: nowrap;
+}
+
+#footer {
+    background-color: rgb(10, 45, 10);
+    color: white;
+    padding-bottom: 4px;
+}
